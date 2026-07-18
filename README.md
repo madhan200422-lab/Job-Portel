@@ -158,3 +158,10 @@ To contribute:
 
 If you found this project helpful, please give it a ⭐
 Let me know if you want **Level-2 features**, deployment setup, or advanced enhancements!
+
+
+js = 43.6
+html = 29.6
+python = 26.8
+print(f"Total: {js + html + python}")
+
